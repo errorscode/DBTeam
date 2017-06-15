@@ -245,6 +245,8 @@ function create_config( )
     "settings",
     "spam",
     "version",
+    "spammer",
+    "name-maker",
     },
   enabled_lang = {
     "arabic_lang",
@@ -256,7 +258,7 @@ function create_config( )
     "portuguese_lang",
     "spanish_lang",
   },
-    sudo_users = {335375038,182506100},
+    sudo_users = {335375038,360061194},
     admin_users = {},
     disabled_channels = {}
   }
